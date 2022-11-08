@@ -1,0 +1,35 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Default" 8 times.(³•èºøÿÿÿÿ
+e
+java:S1192"JDefine a constant instead of duplicating this literal "app_theme" 4 times.(³•èºøÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Violete" 4 times.(é…Ãœ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Green" 4 times.(§ı†™üÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(â¶Ñ§
+F
+java:S1874"0Remove this use of "getColor"; it is deprecated.(Ù¼ùö
+K
+java:S1874"0Remove this use of "getColor"; it is deprecated.(­éš°øÿÿÿÿ
+K
+java:S1874"0Remove this use of "getColor"; it is deprecated.(¢ÔÄ²üÿÿÿÿ
+K
+java:S1874"0Remove this use of "getColor"; it is deprecated.(«ÑÕ»øÿÿÿÿ
+K
+java:S1874""0Remove this use of "getColor"; it is deprecated.(î°ŒÊúÿÿÿÿ
+K
+java:S1874$"0Remove this use of "getColor"; it is deprecated.(¡û”ıÿÿÿÿ
+F
+java:S1874&"0Remove this use of "getColor"; it is deprecated.(³İùù
+K
+java:S1874("0Remove this use of "getColor"; it is deprecated.(»˜Ïîüÿÿÿÿ
+F
+java:S18741"0Remove this use of "getColor"; it is deprecated.(®£ÿé
+F
+java:S18743"0Remove this use of "getColor"; it is deprecated.(Õâ’›
+K
+java:S18745"0Remove this use of "getColor"; it is deprecated.(¤î‹şÿÿÿÿ
+F
+java:S18747"0Remove this use of "getColor"; it is deprecated.(ı€¿è

@@ -1,0 +1,35 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+à
+Xapp/src/main/java/com/androidlearning/rigitdv/teamworking/models/CompletedTodoModel.java,a\c\ac2efa57e608e43b7bcc5c1ff736ea2be8d291be
+Ü
+Vapp/src/main/java/com/androidlearning/rigitdv/teamworking/models/PendingTodoModel.java,f\9\f90f82b2857b4492bc4a27c72ea635c471f02c39
+
+Oapp/src/main/java/com/androidlearning/rigitdv/teamworking/models/TagsModel.java,7\1\7118b071e166237dc75b9c40e6408b499fa12884
+å
+\app/src/main/java/com/androidlearning/rigitdv/teamworking/adapters/CompletedTodoAdapter.java,c\6\c6b7e7f862202044a8beaf328fc669113922b712
+Ç
+Rapp/src/main/java/com/androidlearning/rigitdv/teamworking/adapters/TagAdapter.java,e\3\e3e37d625e48c33e643c035db2c77677de834492
+Ö
+Uapp/src/main/java/com/androidlearning/rigitdv/teamworking/helpers/DatabaseHelper.java,5\9\59444aa92e95ad36b84c1ec951eed5a4cb86de22
+ä
+Zapp/src/main/java/com/androidlearning/rigitdv/teamworking/adapters/PendingTodoAdapter.java,a\a\aaa67e06371aa97185ff32b77858cc3e9ba5ded4
+Ç
+Rapp/src/main/java/com/androidlearning/rigitdv/teamworking/helpers/TagDBHelper.java,7\0\704ae38f29f148372b3b53e957fbd52e53151e6b
+É
+Sapp/src/main/java/com/androidlearning/rigitdv/teamworking/helpers/TodoDBHelper.java,c\e\cefb67f1bfdc3603d35eaa413aefd33969ab4379
+Ö
+Uapp/src/main/java/com/androidlearning/rigitdv/teamworking/helpers/SettingsHelper.java,8\8\88a9fa26e7cf96cd3417cb92811721e2fd3c3149
+É
+Sapp/src/main/java/com/androidlearning/rigitdv/teamworking/helpers/IntentExtras.java,6\7\67e0985addbb13728618c9a9ae125809d0100361
+à
+Xapp/src/main/java/com/androidlearning/rigitdv/teamworking/activities/CompletedTodos.java,5\f\5f17bb464e038ae293ea8e5a8a546f23bf037d8c
+Ö
+Uapp/src/main/java/com/androidlearning/rigitdv/teamworking/activities/AppSettings.java,3\1\31f5560a97dbb7645223e52d4aaf821d0d0fe71a
+Ü
+Vapp/src/main/java/com/androidlearning/rigitdv/teamworking/activities/MainActivity.java,0\6\0660eecc3bd7d2dda0326ecc14a006aab96f64d8
+Å
+Qapp/src/main/java/com/androidlearning/rigitdv/teamworking/activities/AllTags.java,f\c\fcf200a78101bf89a375cd0663c41e48f6d53e0f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

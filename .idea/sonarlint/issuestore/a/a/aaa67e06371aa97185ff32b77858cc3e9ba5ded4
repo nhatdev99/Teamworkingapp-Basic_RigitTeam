@@ -1,0 +1,21 @@
+
+p
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñù³Š
+†
+java:S1319."qThe type of "pendingTodoModels" should be an interface such as "List" rather than the implementation "ArrayList".(§¹°
+‹
+java:S1319"tThe type of "newPendingTodoModels" should be an interface such as "List" rather than the implementation "ArrayList".(Æí­¤
+M
+java:S1135a"2Complete the task associated to this TODO comment.(´¦ú¯ıÿÿÿÿ
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+N
+java:S1135à"2Complete the task associated to this TODO comment.(©ø¹½úÿÿÿÿ
+H
+java:S1135ú"2Complete the task associated to this TODO comment.(¸”ş=
+
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ıÿÿÿÿ
+d
+java:S1659"HDeclare "todoContent" and all following declarations on a separate line.(­ûÿÿÿÿÿ
+B
+java:S1659"+Declare "makeCompleted" on a separate line.(Åí”¾

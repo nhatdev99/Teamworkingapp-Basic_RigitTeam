@@ -1,0 +1,15 @@
+
+^
+java:S1192*"HDefine a constant instead of duplicating this literal " WHERE " 8 times.(ËÆıâ
+]
+java:S1192*"GDefine a constant instead of duplicating this literal " FROM " 6 times.(ËÆıâ
+^
+java:S1192*"HDefine a constant instead of duplicating this literal "SELECT " 6 times.(ËÆıâ
+†
+java:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ü¼²½
+†
+java:S1319N"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Óüé
+N
+java:S1135…"2Complete the task associated to this TODO comment.(ó”úıÿÿÿÿ
+@
+java:S1068"+Remove this unused "context" private field.(êİç

@@ -1,0 +1,7 @@
+
+…
+java:S1319!"jThe type of "tagsModels" should be an interface such as "List" rather than the implementation "ArrayList".(ìïî´şÿÿÿÿ
+„
+java:S1319™"mThe type of "newTagsModels" should be an interface such as "List" rather than the implementation "ArrayList".(üáúè
+h	java:S116P"TRename this field "tag_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‚i
+i	java:S116Q"URename this field "tag_option" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãé·n

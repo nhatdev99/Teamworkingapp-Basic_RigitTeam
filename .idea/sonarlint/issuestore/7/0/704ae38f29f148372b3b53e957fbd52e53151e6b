@@ -1,0 +1,15 @@
+
+c
+java:S1192$"HDefine a constant instead of duplicating this literal " WHERE " 3 times.(Å◊“˚ˇˇˇˇˇ
+b
+java:S1192#"GDefine a constant instead of duplicating this literal " FROM " 5 times.(ı†™ø¯ˇˇˇˇ
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "SELECT " 5 times.(ı†™ø¯ˇˇˇˇ
+ã
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ä≤√ˆ˙ˇˇˇˇ
+ã
+java:S1319Y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿©”é¯ˇˇˇˇ
+>
+java:S1125&"(Remove the unnecessary boolean literals.(Í≈‰§
+@
+java:S1068"+Remove this unused "context" private field.(Í›Á

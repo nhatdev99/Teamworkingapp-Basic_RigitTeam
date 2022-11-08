@@ -1,0 +1,11 @@
+
+‰
+java:S1319"sThe type of "completedTodoModels" should be an interface such as "List" rather than the implementation "ArrayList".(θό„Ή
+‘
+java:S1319C"vThe type of "newCompletedTodoModels" should be an interface such as "List" rather than the implementation "ArrayList".(ΐ²»•ύÿÿÿÿ
+q
+java:S1450"[Remove the "todoDBHelper" field and declare it as a local variable in the relevant methods.(ρ³ªΤ
+c
+java:S16597"HDeclare "todoContent" and all following declarations on a separate line.(­ϋÿÿÿÿÿ
+F
+java:S1068"0Remove this unused "todoDBHelper" private field.(ρ³ªΤ

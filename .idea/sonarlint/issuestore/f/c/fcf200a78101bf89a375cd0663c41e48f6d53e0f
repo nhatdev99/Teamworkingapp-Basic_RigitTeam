@@ -1,0 +1,16 @@
+
+a
+java:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+f
+java:S1301q"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+1
+java:S1700"Rename field "allTags"(ÁŒÇ€ÿÿÿÿÿ
+q
+java:S1450"VRemove the "allTags" field and declare it as a local variable in the relevant methods.(ÁŒÇ€ÿÿÿÿÿ
+s
+java:S1450#"XRemove the "fabAddTag" field and declare it as a local variable in the relevant methods.(ŸÛ¶‘úÿÿÿÿ
+v
+java:S1450%"[Remove the "linearLayout" field and declare it as a local variable in the relevant methods.(Ãîìêúÿÿÿÿ
+x
+java:S1450""bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„ñš
+7	java:S131K""Add a default case to this switch.(ºÖ

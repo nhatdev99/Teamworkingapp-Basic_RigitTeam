@@ -1,0 +1,11 @@
+
+3
+java:S1700"Rename field "completedTodos"(‰¡³æ
+s
+java:S1450"]Remove the "completedTodos" field and declare it as a local variable in the relevant methods.(‰¡³æ
+v
+java:S1450"[Remove the "linearLayout" field and declare it as a local variable in the relevant methods.(Ãîìêúÿÿÿÿ
+x
+java:S1450"bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„ñš
+M
+java:S1135."2Complete the task associated to this TODO comment.(ìÏ®ìúÿÿÿÿ
